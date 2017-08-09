@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/fhatuwani/NetBeansProjects/interview/application/controllers/User.php</file>
+            <file>file:/home/fhatuwani/NetBeansProjects/interview/application/controllers/index.html</file>
+            <file>file:/home/fhatuwani/NetBeansProjects/interview/application/views/currency/index.php</file>
+            <file>file:/home/fhatuwani/NetBeansProjects/interview/application/config/autoload.php</file>
+            <file>file:/home/fhatuwani/NetBeansProjects/interview/application/config/routes.php</file>
+            <file>file:/home/fhatuwani/NetBeansProjects/interview/application/controllers/api/thirdparty/Currencies.php</file>
+            <file>file:/home/fhatuwani/NetBeansProjects/interview/application/models/index.html</file>
+            <file>file:/home/fhatuwani/NetBeansProjects/interview/application/views/currency/purchase.php</file>
+            <file>file:/home/fhatuwani/NetBeansProjects/interview/application/models/Countries_model.php</file>
+            <file>file:/home/fhatuwani/NetBeansProjects/interview/application/models/Currencies_model.php</file>
+            <file>file:/home/fhatuwani/NetBeansProjects/interview/application/controllers/Welcome.php</file>
+        </group>
+    </open-files>
+</project-private>
